@@ -18,7 +18,8 @@
     "react-scripts": "3.2.0",
     "serialize-javascript": "^5.0.1",
     "socket.io-client": "^2.3.0",
-    "websocket-extensions": "^0.1.4"
+    "websocket-extensions": "^0.1.4",
+    "yargs-parser": "^20.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
