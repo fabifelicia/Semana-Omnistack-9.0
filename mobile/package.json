@@ -22,7 +22,7 @@
     "react-native-reanimated": "~1.2.0",
     "react-native-web": "^0.11.7",
     "react-navigation": "^4.0.10",
-    "yargs-parser": "^20.0.0"
+    "yargs-parser": "^20.2.3"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
