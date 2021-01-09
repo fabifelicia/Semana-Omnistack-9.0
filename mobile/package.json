@@ -8,13 +8,15 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "expo": "^35.0.0",
+    "ini": "^2.0.0",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.19",
     "mem": "^6.1.0",
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1",
+    "node-notifier": "^9.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
@@ -22,7 +24,7 @@
     "react-native-reanimated": "~1.2.0",
     "react-native-web": "^0.11.7",
     "react-navigation": "^4.0.10",
-    "yargs-parser": "^20.2.3"
+    "yargs-parser": "^20.2.4"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
